@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @souravghoshdeveloper (Sourav Ghosh)
+- 🌱 Electrical Engineer (M.Tech | B.Tech | Diploma); Researcher (Electric Vehicles) #MAKAUTIANS
 - 👀 I’m interested in Programming, Web & Android development
-- 🌱 I’m currently a Student of B.tech  Electrical Engineering
 - 💞️ I’m looking to collaborate on my birth day😃😃😃
 - 📫 You can reach me in email(souravghosh.ee2020@nsec.ac.in)
 

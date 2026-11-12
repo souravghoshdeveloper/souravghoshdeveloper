@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sourav Ghosh. 
-​ PhD Scholar in Electrical Engineering at National Institute of Technology, Mizoram | M.Tech in Electrical Machines & Drives | Researcher | MATLAB & AutoCAD
+​- PhD Scholar in Electrical Engineering at National Institute of Technology, Mizoram | M.Tech in Electrical Machines & Drives | Researcher | MATLAB & AutoCAD
 You can reach me in email (sourav.ee.phd26@nitmz.ac.in)
 
 <!---

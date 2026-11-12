@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @souravghoshdeveloper (Sourav Ghosh)
-- 🌱 Electrical Engineer (M.Tech | B.Tech | Diploma); Researcher (Electric Vehicles) #MAKAUTIANS
-- 👀 I’m interested in Programming, Web & Android development
-- 💞️ I’m looking to collaborate on my birth day😃😃😃
-- 📫 You can reach me in email(souravghosh.ee2020@nsec.ac.in)
+- 👋 Hi, I’m Sourav Ghosh
+​PhD Scholar in Electrical Engineering at National Institute of Technology, Mizoram | M.Tech in Electrical Machines & Drives | Researcher | MATLAB & AutoCAD
+You can reach me in email(sourav.ee.phd26@nitmz.ac.in)
 
 <!---
 souravghoshdeveloper/souravghoshdeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
